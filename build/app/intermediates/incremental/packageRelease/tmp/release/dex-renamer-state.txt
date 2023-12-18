@@ -1,0 +1,4 @@
+#Sun Dec 17 20:11:05 BDT 2023
+base.0=D\:\\sudoku-flutter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

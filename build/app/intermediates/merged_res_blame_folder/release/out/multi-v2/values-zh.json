@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "dev.tsk.sudoku_spectrum.app-mergeReleaseResources-15:/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "D:\\sudoku-flutter\\android\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "40",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "40",
+                        "endOffsets": "91"
+                    }
+                }
+            ]
+        }
+    ]
+}
